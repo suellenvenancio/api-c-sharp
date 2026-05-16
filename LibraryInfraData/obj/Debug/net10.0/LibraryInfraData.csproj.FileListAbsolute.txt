@@ -1,0 +1,17 @@
+/home/suellenvdasilva/projetos/Library/LibraryInfraData/bin/Debug/net10.0/LibraryInfraData.deps.json
+/home/suellenvdasilva/projetos/Library/LibraryInfraData/bin/Debug/net10.0/LibraryInfraData.dll
+/home/suellenvdasilva/projetos/Library/LibraryInfraData/bin/Debug/net10.0/LibraryInfraData.pdb
+/home/suellenvdasilva/projetos/Library/LibraryInfraData/bin/Debug/net10.0/LibraryDomain.dll
+/home/suellenvdasilva/projetos/Library/LibraryInfraData/bin/Debug/net10.0/LibraryDomain.pdb
+/home/suellenvdasilva/projetos/Library/LibraryInfraData/obj/Debug/net10.0/LibraryInfraData.csproj.AssemblyReference.cache
+/home/suellenvdasilva/projetos/Library/LibraryInfraData/obj/Debug/net10.0/LibraryInfraData.GeneratedMSBuildEditorConfig.editorconfig
+/home/suellenvdasilva/projetos/Library/LibraryInfraData/obj/Debug/net10.0/LibraryInfraData.AssemblyInfoInputs.cache
+/home/suellenvdasilva/projetos/Library/LibraryInfraData/obj/Debug/net10.0/LibraryInfraData.AssemblyInfo.cs
+/home/suellenvdasilva/projetos/Library/LibraryInfraData/obj/Debug/net10.0/LibraryInfraData.csproj.CoreCompileInputs.cache
+/home/suellenvdasilva/projetos/Library/LibraryInfraData/obj/Debug/net10.0/LibraryI.F769D3EF.Up2Date
+/home/suellenvdasilva/projetos/Library/LibraryInfraData/obj/Debug/net10.0/LibraryInfraData.dll
+/home/suellenvdasilva/projetos/Library/LibraryInfraData/obj/Debug/net10.0/refint/LibraryInfraData.dll
+/home/suellenvdasilva/projetos/Library/LibraryInfraData/obj/Debug/net10.0/LibraryInfraData.pdb
+/home/suellenvdasilva/projetos/Library/LibraryInfraData/obj/Debug/net10.0/ref/LibraryInfraData.dll
+/home/suellenvdasilva/projetos/Library/LibraryInfraData/bin/Debug/net10.0/LibraryInfraData.runtimeconfig.json
+/home/suellenvdasilva/projetos/Library/LibraryInfraData/obj/Debug/net10.0/LibraryInfraData.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/LibraryApi/">
+    <Project Path="LibraryApi/Library.csproj" />
+  </Folder>
+  <Project Path="LibraryApplication/LibraryApplication.csproj" />
+  <Project Path="LibraryDomain/LibraryDomain.csproj" />
+  <Project Path="LibraryInfraData/LibraryInfraData.csproj" />
+  <Project Path="LibraryInfraIOK/LibraryInfraIOK.csproj" />
+</Solution>

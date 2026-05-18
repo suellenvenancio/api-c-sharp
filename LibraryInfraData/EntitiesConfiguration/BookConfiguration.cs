@@ -9,8 +9,8 @@ namespace LibraryInfraData.EntitiesConfiguration {
         public void Configure(EntityTypeBuilder<Book> builder)
         {
             builder.HasKey(b => b.Id);
-            builder.Property(b => b.Title).IsRequired().HasMaxLength(200);
-            builder.Property(b => b.ISBN).IsRequired().HasMaxLength(20);
+            builder.Property(b => b.Title).IsRequired();
+            builder.Property(b => b.ISBN).IsRequired();
             builder.Property(b => b.Quantity).IsRequired();
             builder.HasOne(b => b.Category)
                    .WithMany(c => c.Books)

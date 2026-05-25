@@ -1,5 +1,5 @@
 using LibraryApplication.Middleware;
-using LibraryInfraIOK;
+using LibraryInfraIOC;
 
 using Microsoft.OpenApi.Models;
 

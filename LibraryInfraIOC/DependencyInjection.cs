@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace LibraryInfraIOK;
+namespace LibraryInfraIOC;
 
 public static class DependencyInjection
 {

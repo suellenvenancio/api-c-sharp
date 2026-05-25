@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
   <ItemGroup>
-     <ProjectReference Include="..\LibraryInfraIOK\LibraryInfraIOK.csproj" /> 
+     <ProjectReference Include="..\LibraryInfraIOC\LibraryInfraIOC.csproj" /> 
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />

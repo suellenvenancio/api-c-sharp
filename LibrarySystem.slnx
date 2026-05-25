@@ -5,5 +5,5 @@
   <Project Path="LibraryApplication/LibraryApplication.csproj" />
   <Project Path="LibraryDomain/LibraryDomain.csproj" />
   <Project Path="LibraryInfraData/LibraryInfraData.csproj" />
-  <Project Path="LibraryInfraIOK/LibraryInfraIOK.csproj" />
+  <Project Path="LibraryInfraIOC/LibraryInfraIOC.csproj" />
 </Solution>

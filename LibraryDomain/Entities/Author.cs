@@ -4,6 +4,6 @@ namespace LibraryDomain.Entities
     {
         public Guid Id { get; set; }
         public string Name { get; set; } = string.Empty;
-        public List<BookAuthor> bookAuthors { get; set; } = [];
+        public List<BookAuthor> BookAuthors { get; set; } = [];
     }
 }

@@ -13,7 +13,7 @@ namespace LibraryInfraData.EntitiesConfiguration
                    .WithMany(b => b.BookAuthors)
                    .HasForeignKey(ba => ba.BookId);
             builder.HasOne(ba => ba.Author)
-                   .WithMany(a => a.bookAuthors)
+                   .WithMany(a => a.BookAuthors)
                    .HasForeignKey(ba => ba.AuthorId);
         }
     }

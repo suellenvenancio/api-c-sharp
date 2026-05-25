@@ -5,7 +5,7 @@ namespace LibraryDomain.Interfaces
 {
     public interface IBookRepository
     {  
-        Task<Book> GetBookById(int id);
+        Task<Book> GetBookById(Guid id);
         Task<List<Book>>GetAllBooks(); 
     }
 }

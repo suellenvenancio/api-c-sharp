@@ -11,5 +11,15 @@ namespace LibraryDomain.Entities
         public Guid CategoryId { get; set; }
         public Category? Category { get; set; }
         public List<BookAuthor> BookAuthors { get; set; } = [];
+
+        public class BookGetDTO
+        {
+            public Guid Id { get; set; }
+            public string Title { get; set; }
+            public object Author { get; set; }
+            public int PublicationYear { get; set; }
+            public int Quantity { get; set; }
+            public Guid CategoryId { get; set; }
+        }
     }
 }

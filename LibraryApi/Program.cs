@@ -1,6 +1,6 @@
 using LibraryApplication.Middleware;
 using LibraryInfraIOK;
-using Microsoft.OpenApi;
+
 using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
